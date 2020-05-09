@@ -16,7 +16,7 @@
         <ShowSource>1</ShowSource>
     </Trace1>
     <DebugChecksum>
-        <Checksum>2895418733</Checksum>
+        <Checksum>917865763</Checksum>
     </DebugChecksum>
     <Disassembly>
         <InstrCount>0</InstrCount>
@@ -67,10 +67,11 @@
         <mode>0</mode>
     </DisassembleMode>
     <Breakpoints2>
-        <Bp0>_ 1 "STD_CODE2" "{$PROJ_DIR$\cpu-port.c}.92.3" 0 0 1 "" 0 ""</Bp0>
-        <Bp1>_ 1 "STD_CODE2" "{$PROJ_DIR$\main.c}.77.3" 0 0 1 "" 0 ""</Bp1>
-        <Bp2>_ 1 "STD_CODE2" "{$PROJ_DIR$\main.c}.70.30" 0 0 1 "" 0 ""</Bp2>
-        <Count>3</Count>
+        <Bp0>_ 1 "STD_CODE2" "{$PROJ_DIR$\main.c}.87.17" 0 0 1 "" 0 ""</Bp0>
+        <Bp1>_ 1 "STD_CODE2" "{$PROJ_DIR$\main.c}.84.3" 0 0 1 "" 0 ""</Bp1>
+        <Bp2>_ 1 "STD_CODE2" "{$PROJ_DIR$\main.c}.68.3" 0 0 1 "" 0 ""</Bp2>
+        <Bp3>_ 1 "STD_CODE2" "{$PROJ_DIR$\main.c}.71.17" 0 0 1 "" 0 ""</Bp3>
+        <Count>4</Count>
     </Breakpoints2>
     <Interrupts>
         <Enabled>1</Enabled>

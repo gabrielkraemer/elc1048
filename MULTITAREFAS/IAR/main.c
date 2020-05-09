@@ -16,6 +16,13 @@ void tarefa_2(void);
 #define TAM_PILHA_2		(TAM_MINIMO_PILHA + 24)
 #define TAM_PILHA_OCIOSA	(TAM_MINIMO_PILHA + 24)
 
+#define N 10
+
+semaforo_t mutex = {1, 0};
+semaforo_t empty = {N, 0};
+semaforo_t full = {0, 0};
+int shared_buffer[10] = {0,0,0,0,0,0,0,0,0,0};
+
 /*
  * Declaracao das pilhas das tarefas
  */
@@ -32,9 +39,9 @@ int main(void)
 	/* Criacao das tarefas */
 	/* Parametros: ponteiro, nome, ponteiro da pilha, tamanho da pilha, prioridade da tarefa */
 	
-	CriaTarefa(tarefa_1, "Tarefa 1", PILHA_TAREFA_1, TAM_PILHA_1, 1);
+	CriaTarefa(tarefa_1, "Tarefa 1", PILHA_TAREFA_1, TAM_PILHA_1, 2);
 	
-	CriaTarefa(tarefa_2, "Tarefa 2", PILHA_TAREFA_2, TAM_PILHA_2, 2);
+	CriaTarefa(tarefa_2, "Tarefa 2", PILHA_TAREFA_2, TAM_PILHA_2, 1);
 	
 	/* Cria tarefa ociosa do sistema */
 	CriaTarefa(tarefa_ociosa,"Tarefa ociosa", PILHA_TAREFA_OCIOSA, TAM_PILHA_OCIOSA, 0);
@@ -51,30 +58,35 @@ int main(void)
 	}
 }
 
-
 /* Tarefas de exemplo que usam funcoes para suspender/continuar as tarefas */
-void tarefa_1(void)
+
+void tarefa_1(void) // PRODUTOR
 {
-	volatile uint16_t a = 0;
 	for(;;)
 	{
-		a++;
-		TarefaEspera(100);
+                int item = 1;
+		SemaforoAguarda(&empty);
+                SemaforoAguarda(&mutex);
+                
+                shared_buffer[full.contador] = item;
+                
+                SemaforoLibera(&mutex);
+                SemaforoLibera(&full);
 	
+                TarefaEspera((tick_t)2);
 	}
 }
 
-void tarefa_2(void)
+void tarefa_2(void) // CONSUMIDOR
 {
-	volatile uint16_t b = 0;
-        volatile int i, j = 0;
 	for(;;)
 	{
-                for(i = 0; i < 100000; i++){
-                        j++;
-                }
-               
-		b++;
-		TarefaEspera(100);	
+		SemaforoAguarda(&full);
+                SemaforoAguarda(&mutex);
+                
+                shared_buffer[full.contador] = 0;
+                
+                SemaforoLibera(&mutex);
+                SemaforoLibera(&empty);
 	}
 }
