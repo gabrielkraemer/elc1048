@@ -5177,6 +5177,538 @@
     "scope": null
   },
   {
+    "ID": "c:@F@tarefa_0",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_0(void)",
+    "location": {
+      "column": "6",
+      "line": "9",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_1(void)",
+    "location": {
+      "column": "6",
+      "line": "10",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_2(void)",
+    "location": {
+      "column": "6",
+      "line": "11",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_3",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_3(void)",
+    "location": {
+      "column": "6",
+      "line": "12",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_4",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_4(void)",
+    "location": {
+      "column": "6",
+      "line": "13",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_5",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_5(void)",
+    "location": {
+      "column": "6",
+      "line": "14",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_6",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_6(void)",
+    "location": {
+      "column": "6",
+      "line": "15",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@322@macro@TAM_PILHA_0",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_0",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@368@macro@TAM_PILHA_1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_1",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@414@macro@TAM_PILHA_2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_2",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@460@macro@TAM_PILHA_3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_3",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@506@macro@TAM_PILHA_4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_4",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@552@macro@TAM_PILHA_5",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_5",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@598@macro@TAM_PILHA_6",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_6",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@644@macro@TAM_PILHA_OCIOSA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_OCIOSA",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_0",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_0",
+    "location": {
+      "column": "10",
+      "line": "32",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_1",
+    "location": {
+      "column": "10",
+      "line": "33",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_2",
+    "location": {
+      "column": "10",
+      "line": "34",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_3",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_3",
+    "location": {
+      "column": "10",
+      "line": "35",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_4",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_4",
+    "location": {
+      "column": "10",
+      "line": "36",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_5",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_5",
+    "location": {
+      "column": "10",
+      "line": "37",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_6",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_6",
+    "location": {
+      "column": "10",
+      "line": "38",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_OCIOSA",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_OCIOSA",
+    "location": {
+      "column": "10",
+      "line": "39",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "44",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cnt0",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cnt0",
+    "location": {
+      "column": "10",
+      "line": "85",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cnt0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cnt1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cnt1",
+    "location": {
+      "column": "10",
+      "line": "86",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cnt1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cnt2",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cnt2",
+    "location": {
+      "column": "10",
+      "line": "87",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cnt2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cnt3",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cnt3",
+    "location": {
+      "column": "10",
+      "line": "88",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cnt3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cnt4",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cnt4",
+    "location": {
+      "column": "10",
+      "line": "89",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cnt4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cnt5",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cnt5",
+    "location": {
+      "column": "10",
+      "line": "90",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cnt5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cnt6",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cnt6",
+    "location": {
+      "column": "10",
+      "line": "91",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cnt6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_0",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_0(void)",
+    "location": {
+      "column": "6",
+      "line": "93",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_1(void)",
+    "location": {
+      "column": "6",
+      "line": "102",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_2(void)",
+    "location": {
+      "column": "6",
+      "line": "112",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_3",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_3(void)",
+    "location": {
+      "column": "6",
+      "line": "122",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_4",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_4(void)",
+    "location": {
+      "column": "6",
+      "line": "132",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_5",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_5(void)",
+    "location": {
+      "column": "6",
+      "line": "142",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_6",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_6(void)",
+    "location": {
+      "column": "6",
+      "line": "151",
+      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
     "ID": "c:ysizet.h@111@macro@_YSIZET_H",
     "What": "MacroDef",
     "defdec": "Def",
@@ -5258,244 +5790,6 @@
     },
     "name": "__data_size_t",
     "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_1",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_1(void)",
-    "location": {
-      "column": "6",
-      "line": "9",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_2",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_2(void)",
-    "location": {
-      "column": "6",
-      "line": "10",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@212@macro@TAM_PILHA_1",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_1",
-    "location": {
-      "column": "9",
-      "line": "15",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@258@macro@TAM_PILHA_2",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_2",
-    "location": {
-      "column": "9",
-      "line": "16",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@304@macro@TAM_PILHA_OCIOSA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_OCIOSA",
-    "location": {
-      "column": "9",
-      "line": "17",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_OCIOSA",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@356@macro@N",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "N",
-    "location": {
-      "column": "9",
-      "line": "19",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "N",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@mutex",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "mutex",
-    "location": {
-      "column": "12",
-      "line": "21",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "mutex",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@empty",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "empty",
-    "location": {
-      "column": "12",
-      "line": "22",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "empty",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@full",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "full",
-    "location": {
-      "column": "12",
-      "line": "23",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "full",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@shared_buffer",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "shared_buffer",
-    "location": {
-      "column": "5",
-      "line": "24",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "shared_buffer",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_1",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_1",
-    "location": {
-      "column": "10",
-      "line": "29",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_2",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_2",
-    "location": {
-      "column": "10",
-      "line": "30",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_OCIOSA",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_OCIOSA",
-    "location": {
-      "column": "10",
-      "line": "31",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_OCIOSA",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@main",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "int main(void)",
-    "location": {
-      "column": "5",
-      "line": "36",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "main",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_1",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_1(void)",
-    "location": {
-      "column": "6",
-      "line": "63",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@1466@F@tarefa_1@item",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "item",
-    "location": {
-      "column": "21",
-      "line": "67",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "item",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_2",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_2(void)",
-    "location": {
-      "column": "6",
-      "line": "80",
-      "path": "C:\\Users\\Astor\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_2",
-    "origin": "project_file",
     "scope": null
   },
   {
